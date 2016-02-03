@@ -1,1 +1,1 @@
-# curly-enigma [![Circle CI](https://circleci.com/gh/vintasoftware/curly-enigma.png?style=badge)](https://circleci.com/gh/vintasoftware/curly-enigma)
+# curly-enigma [![Circle CI](https://circleci.com/gh/vintasoftware/curly-enigma.svg?style=svg&circle-token=7548cf002a448bfba96f02d9f36e0356a4cfa088)](https://circleci.com/gh/vintasoftware/curly-enigma)
