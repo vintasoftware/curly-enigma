@@ -1,1 +1,1 @@
-# curly-enigma
+# curly-enigma [![Circle CI](https://circleci.com/gh/vintasoftware/curly-enigma.png?style=badge)](https://circleci.com/gh/vintasoftware/curly-enigma)
